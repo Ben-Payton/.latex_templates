@@ -3,4 +3,6 @@
 *.fls
 *.log
 *.synctex.gz
+*.run.xml
+*.bcf
 *.pdf
